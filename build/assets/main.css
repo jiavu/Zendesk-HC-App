@@ -1,0 +1,27 @@
+
+* {
+    margin: 0;
+}
+
+#search-container {
+    margin-top: 2%;
+    text-align: center;
+}
+input[type=text] {
+    width: 80%;
+    padding: 2%;
+}
+#button-container {
+    width: 100%;
+    text-align: center;
+    margin-top: 5%;
+}
+input[type=submit] {
+    padding: 2%;
+}
+footer {
+    
+    font-size: 10px;
+    text-align: right;
+    padding: 0 5%;
+}
