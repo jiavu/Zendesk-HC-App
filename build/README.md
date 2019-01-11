@@ -9,5 +9,7 @@ Zendesk iframe app with a link to Helpcenter, offering a search input.
 
 Please submit bug reports to [https://github.com/jiavu](me). Pull requests are welcome.
 
+Part2: [Chrome Extension](https://github.com/jiavu/My-first-Chrome-Extension). Copies URL and innerText of <code>&lt;h1&gt;</code>, closes tap, formats link.
+
 ### Screenshot(s):
 nööp.
