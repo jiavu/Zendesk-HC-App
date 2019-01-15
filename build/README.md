@@ -1,4 +1,4 @@
-# Magine TV Helpcenter
+# Magine TV Helpcenter App for Zendesk
 
 Zendesk iframe app with a link to Helpcenter, offering a search input.
 
